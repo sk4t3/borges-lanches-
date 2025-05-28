@@ -171,13 +171,10 @@ body {
   footer {
     background-color: #5d4037;
     color: #fff;
+    font-size: 0,5rem;
     text-align: center;
-    padding: 30px 20px;
-    font-size: 0.85rem;
-    margin-top: 10px;
-    display: block;
-
-  }
+    border-radius: 5px;
+}
   
   footer a {
     color: #ffe0b2;
